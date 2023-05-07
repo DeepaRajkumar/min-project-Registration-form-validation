@@ -9,8 +9,14 @@ body{
     align-items: center;
     height:100vh;
     margin:0;
+    color: green;
+    size:small;
     height:100px;
+<<<<<<< HEAD
     weight: wait new weight
+=======
+
+>>>>>>> 05da6e01ee0a47fe5de439e766ebaa6a26a97334
 }
 .container
 {
